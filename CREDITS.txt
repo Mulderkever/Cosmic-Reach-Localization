@@ -54,6 +54,7 @@
 * Lelebees
 * Luke-Kr
 * Neliz
+* Arthee
 
 == Turkish Localization ==
 * Runterya
